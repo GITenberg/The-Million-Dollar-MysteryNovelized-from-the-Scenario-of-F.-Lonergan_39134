@@ -1,0 +1,33 @@
+_repo: The-Million-Dollar-MysteryNovelized-from-the-Scenario-of-F.-Lonergan_39134
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39134-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Lonergan, F.
+    gutenberg_agent_id: '44435'
+    url: http://www.gutenberg.org/2009/agents/44435
+  - agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39134'
+  lccn: '15005554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: 'The Million Dollar Mystery
+
+  Novelized from the Scenario of F. Lonergan'
+url: http://www.gutenberg.org/ebooks/39134
